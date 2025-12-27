@@ -1,2 +1,2 @@
-# CodeAlpha_ProjectName
+# CodeAlpha_PythonProgrammin_Tasks
 CodeAlpha internship tasks
